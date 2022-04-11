@@ -39,3 +39,10 @@ pagamento e o troco. (print e anexe o resultado provando que foi você que fez).
 Ao escalar uma parede a aranha escala 20 cm de manhã e a noite ela
 desce 11 cm, em quantos dias a aranha chega ao topo de 18 metros de
 altura.
+
+# 6) Questão
+
+Escrever um algoritmo que leia uma quantidade desconhecida de
+números e conte quantos deles estão nos seguintes intervalos: [0-25], [26-50],
+[51-75] e [76-100]. A entrada de dados deve terminar quando for lido um
+número negativo.
