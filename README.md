@@ -46,3 +46,23 @@ Escrever um algoritmo que leia uma quantidade desconhecida de
 números e conte quantos deles estão nos seguintes intervalos: [0-25], [26-50],
 [51-75] e [76-100]. A entrada de dados deve terminar quando for lido um
 número negativo.
+
+# 7) Questão
+
+Faça um algoritmo para mostra os múltiplos de 3 contidos de 1 a 100; (while)
+
+# 8) Questão
+
+Faça um algoritmo que receba vários números e mostre a quantidade de números
+maiores que 5; (do while)
+
+# 9) Questão
+
+Desenvolver um algoritmo que efetue a soma de todos os números ímpares que
+são múltiplos de seis e que se encontram no conjunto dos números de 15 até 250
+
+# 10) Questão
+
+Crie um algorítmo que aplique pelo menos 2 funções e 1 procedimento criado
+por você. (questões idênticas serão anuladas) (print e anexe o resultado
+provando que foi você que fez).
