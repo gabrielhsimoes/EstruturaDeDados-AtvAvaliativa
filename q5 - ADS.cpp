@@ -5,13 +5,19 @@
 #include<stdlib.h>
 
 main(){
+	int dia=0;
+	float metros=0, totalMetros=0, cmPorDia=0;
 	
-	float escalaManha=20, desceNoite=11, cmPorDia=0, metros=0, totalDias;
+	do{
 	
-	cmPorDia = escalaManha - desceNoite;
-	
+	cmPorDia = 20 - 11;
 	metros = cmPorDia / 100;
-	totalDias = metros * 200;
 	
-	printf("Para a aranha chegar ao topo de %.2f metros seria 200 dias", totalDias);
+	totalMetros = totalMetros + metros;
+	
+		dia = dia + 1;	
+		
+	}while(totalMetros <= 18);
+	
+	printf("Para a aranha chegar ao topo de 18 metros seria %d dias", dia);
 }
