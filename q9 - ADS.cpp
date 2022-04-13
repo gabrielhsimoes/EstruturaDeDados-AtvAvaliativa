@@ -18,7 +18,7 @@ main( ){
 				
 				impar = multiplos;
 				
-				if(impar%6==0){
+				if(impar%3!=0){
 					soma = soma + impar;
 					}
 				}
@@ -28,7 +28,7 @@ main( ){
 			
 		}
 		
-		printf(" Soma dos numeros impares que sao multiplos de 6 dentro do conjunto de 15 a 250: %d", soma);
+		printf(" Soma dos numeros impares que sao multiplos de 3 dentro do conjunto de 15 a 250: %d", soma);
 			
 }
 

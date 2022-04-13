@@ -17,10 +17,6 @@ float calcularMediaN2(float parcial, float atv, float inst){
 	return (parcial + atv + inst) /2;
 }
 
-//float mediaFinal(float n1, float n2){
-//	return (calcularMediaN1 + calcularMediaN2) /2;
-//}
-
 mostrarN1(float nota1){
 	return printf("Sua N1 e: %.1f\n", nota1);
 }
@@ -38,7 +34,7 @@ main(){
 	
 	float p1, p2, i1, i2, mediaN1=0, mediaN2=0, atv, mediaFinal=0;
 	
-	printf("Digite a nota da sua Parcial N1: ");
+	printf("\nDigite a nota da sua Parcial N1: ");
 	scanf("%f", &p1);
 	printf("Digite a nota da sua Institucional N1: ");
 	scanf("%f", &i1);

@@ -40,10 +40,6 @@ main(){
 		printf("\n\n");
 		
 		printf("PRODUTOS CADASTRADOS COM SUCESSO!!");
-//		for(i=0; i< qtdP; i++){
-//		
-//			printf("\nPRODUTO: %s | VALOR R$: %.2f ", produtos[i], valor[i]);
-//		}
 		
 	}	
 	
@@ -80,7 +76,6 @@ main(){
 		scanf("%f", &valorPagamento);
 		
 		printf("TROCO: %.2f", valorPagamento - total);
-		
 		
 	}
 	
