@@ -50,7 +50,7 @@ main(){
 	else if(op == 2){
 		
 		printf("-------------------- SISTEMA DE COMPRAS --------------------\n\n");
-		printf("Digite um numero para exibir a listagem de produtos");
+		printf("Digite um numero para exibir a listagem de produtos: ");
 		scanf("%d", &qtdP);
 		
 		qtdP = qtdP;
