@@ -14,11 +14,11 @@ main( ){
 			
 			multiplos = num;
 			
-			if(multiplos%6!=0){
+			if(multiplos%3==0){
 				
 				impar = multiplos;
 				
-				if(impar%3!=0){
+				if(impar%2!=0){
 					soma = soma + impar;
 					}
 				}
